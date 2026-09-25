@@ -4,6 +4,7 @@
 ### Enterprise Turnkey Engineering, Infrastructure & Real Estate Platform
 **Architectural Case Study · UI/UX Showcase · Full-Stack System Design**
 
+[![Live Demo](https://img.shields.io/badge/Live_App-amarc--construction.lovable.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amarc-construction.lovable.app/)
 [![System Status](https://img.shields.io/badge/System-Production_Grade-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)]()
 [![Source Code](https://img.shields.io/badge/Source_Code-Proprietary_%2F_Private-64748b?style=for-the-badge&logo=github&logoColor=white)]()
 [![Frontend](https://img.shields.io/badge/Frontend-React_19_%7C_TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
@@ -15,18 +16,23 @@
 <br>
 
 <p align="center">
+  <a href="https://amarc-construction.lovable.app/">🌐 <strong>Test Live Platform</strong></a> •
   <a href="#-executive-overview"><strong>Executive Overview</strong></a> •
   <a href="#-cinematic-visual-showcase--storytelling"><strong>Visual Showcase</strong></a> •
   <a href="#-interactive-video-walkthrough"><strong>Video Walkthrough</strong></a> •
   <a href="#-system-architecture"><strong>System Architecture</strong></a> •
   <a href="#-admin-command-center--bespoke-cms"><strong>Admin Command Center</strong></a> •
-  <a href="#-engineering-deep-dive"><strong>Engineering Deep Dive</strong></a> •
-  <a href="#-complete-feature-matrix"><strong>Feature Matrix</strong></a>
+  <a href="#-engineering-deep-dive"><strong>Engineering Deep Dive</strong></a>
 </p>
 
 </div>
 
 ---
+
+> [!TIP]
+> 🌐 **Interactive Live System Preview:**  
+> Test and explore the live, interactive production portal directly in your browser:  
+> 👉 **[amarc-construction.lovable.app](https://amarc-construction.lovable.app/)**
 
 > [!NOTE]
 > **Enterprise Client Showcase & Whitepaper Notice**  
